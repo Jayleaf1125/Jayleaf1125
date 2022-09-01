@@ -2,8 +2,10 @@
 
 
 ## I'm a Nerd, Geek, and Learning Fanatic!
-[![Website](https://img.shields.io/website?label=flaviamedici.com&style=for-the-badge&url=https%3A%2F%2Fflaviamedici.com)](https://flaviamedici.com)
 
 - 🔭 I’m currently finshing my year at the [[Marcy Lab School](https://www.marcylabschool.org/)]!
+- I'm constantly learning new tools and improving myself 1% everyday
+- I'm looking to contribute to open source projects
+- 🥅 2022 Goals: Aquiring my first internship/apprenticeship
 - ⚡ Fun fact: I am currently learning Japanese 
 
