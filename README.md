@@ -1,7 +1,7 @@
 ### Hello, I'm Jason 👋
 
 
-## I'm a Nerd, Geek, and Learning Fanatic!
+## I'm a Nerd, Geek, and a Learning Fanatic!
 
 - 🔭 I’m currently finshing my year at the [Marcy Lab School](https://www.marcylabschool.org/)!
 - 📚 I'm constantly learning new tools and improving myself 1% everyday
