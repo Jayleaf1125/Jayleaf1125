@@ -6,7 +6,7 @@
 - 🔭 I’m a Fall 2021 alumni at the [Marcy Lab School](https://www.marcylabschool.org/)!
 - 📚 I'm constantly learning new tools and improving myself 1% everyday
 - 👀 Currently contributing to [Taimaka](https://taimaka.org/) as a Volunteer Software Engineer!
-- 🥅 2023 Goals: Aquiring my tech oppournity and learning VR
+- 🥅 2023 Goals: Aquiring my first tech oppournity and learning VR
 - ⚡ Fun fact: I am currently learning Japanese 
 
 ### Connect with me:
