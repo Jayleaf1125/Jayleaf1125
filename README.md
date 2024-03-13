@@ -6,7 +6,7 @@
 - 🔭 I’m a Fall 2021 alumni at the [Marcy Lab School](https://www.marcylabschool.org/)!
 - 📚 I'm constantly learning new tools and improving myself 1% everyday
 - 👀 Currently contributing to [Taimaka](https://taimaka.org/) as a Volunteer Full Stack Engineer!
-- 🥅 2024 Goals: Aquiring my first tech oppournity, Learning VR, and completeing my first year at City College
+- 🥅 2024 Goals: Aquiring my first tech opportunity, Learning VR, and completeing my first year at City College
 - ⚡ Fun fact: I am currently learning Japanese 
 
 ### Connect with me:
